@@ -1,0 +1,19 @@
+body{
+    background-color: #0A1F55;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+.img{
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.img img{
+    height: 400px;
+    /* background-color: #fff;  */
+}
+
+Image{
+    max-width: 100%;
+}

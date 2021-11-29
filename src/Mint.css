@@ -1,0 +1,12 @@
+.object{
+    animation: up-down 3s linear infinite;
+}
+
+@keyframes up-down {
+    0%, 100% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-30px);
+      }
+}
