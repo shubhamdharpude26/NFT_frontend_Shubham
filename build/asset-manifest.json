@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.516beb39.chunk.css",
+    "main.js": "/static/js/main.1319b6de.chunk.js",
+    "main.js.map": "/static/js/main.1319b6de.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b8da5d6f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b8da5d6f.js.map",
+    "static/css/2.a1596f27.chunk.css": "/static/css/2.a1596f27.chunk.css",
+    "static/js/2.cb7dd482.chunk.js": "/static/js/2.cb7dd482.chunk.js",
+    "static/js/2.cb7dd482.chunk.js.map": "/static/js/2.cb7dd482.chunk.js.map",
+    "static/js/3.dac56c83.chunk.js": "/static/js/3.dac56c83.chunk.js",
+    "static/js/3.dac56c83.chunk.js.map": "/static/js/3.dac56c83.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.516beb39.chunk.css.map": "/static/css/main.516beb39.chunk.css.map",
+    "static/js/2.cb7dd482.chunk.js.LICENSE.txt": "/static/js/2.cb7dd482.chunk.js.LICENSE.txt",
+    "static/media/astronaut.6f70098a.png": "/static/media/astronaut.6f70098a.png",
+    "static/media/eth.bdf3a705.png": "/static/media/eth.bdf3a705.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8da5d6f.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.cb7dd482.chunk.js",
+    "static/css/main.516beb39.chunk.css",
+    "static/js/main.1319b6de.chunk.js"
+  ]
+}
